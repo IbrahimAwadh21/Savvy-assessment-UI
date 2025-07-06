@@ -1,0 +1,82 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# =========== #
+# User files  #
+# =========== #
+UserSettings/
+*.user
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.userprefs
+
+# ============== #
+# OS generated   #
+# ============== #
+.DS_Store
+Thumbs.db
+
+# ============ #
+# IDEs         #
+# ============ #
+.vscode/
+.idea/
+*.code-workspace
+
+# ============ #
+# Unity cache  #
+# ============ #
+UnityPackageManager/
+Packages/com.unity.package-manager-ui/
+
+# =========== #
+# Builds      #
+# =========== #
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+
+# =============== #
+# Crash reports   #
+# =============== #
+sysinfo.txt
+*.stacktrace
+
+# =========== #
+# JetBrains   #
+# =========== #
+*.pidb
+*.booproj
+*.sln.docstates
+
+# =================== #
+# Rider / JetBrains   #
+# =================== #
+.idea/
+*.sln.iml
+
+# ========== #
+# VS Code    #
+# ========== #
+.vscode/
+
+# =========== #
+# Unity Cache #
+# =========== #
+Library/
+Temp/
+Obj/
+Build/
+Builds/
