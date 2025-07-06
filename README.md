@@ -15,7 +15,7 @@
   i also have done animation for it
 
 5- Create **three** button"Play" "Settings" "Quit" with hover effect and i have add picture
-   to make it look like pixel shape andpointer appear in the right side of the button 
+   to make it look like pixel shape and pointer appear in the right side of the button 
    i also add audio lunch when you click the button
 
 ###  UI Hierarchy
