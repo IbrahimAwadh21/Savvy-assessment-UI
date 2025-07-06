@@ -1815,7 +1815,7 @@ GameObject:
   - component: {fileID: 1265226466}
   - component: {fileID: 1265226465}
   m_Layer: 5
-  m_Name: unity ui transparent
+  m_Name: Unity UI transparent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
